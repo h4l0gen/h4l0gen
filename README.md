@@ -6,6 +6,8 @@
 
 - 🚀 LFX'24 mentee at [Inspektor-gadget](https://github.com/inspektor-gadget/)
 
+- ☁️🔐 Cloud and system security Intern at [CloudDefense.AI](https://www.clouddefense.ai/)
+
 - 🔭 I am a [CTF player](https://ctftime.org/user/161669) with team **[InfoSecIITR](https://ctftime.org/team/16691)**
   
 - 🌱 I’m currently learning **Kubernetes**, **eBPF**
