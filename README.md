@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **Kubernetes**, **eBPF**
 
-- ⌨️ Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/), [copaceptic](https://github.com/project-copacetic/copacetic), [Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
+- ⌨️ Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/),[Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
