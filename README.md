@@ -4,11 +4,13 @@
 <h3 aligin="left">About me:</h3>
 <p>I am an undergraduate student at IIT Roorkee. I contribute to open source projects in cloud, Kubernetes, web, and documentation. I love technologies that make things secure and enjoy learning how things work.
 
+- 🚀 LFX'24 mentee at [Inspektor-gadget](https://github.com/inspektor-gadget/)
+
 - 🔭 I am a [CTF player](https://ctftime.org/user/161669) with team **[InfoSecIITR](https://ctftime.org/team/16691)**
   
 - 🌱 I’m currently learning **Kubernetes**, **eBPF**
 
-- 🧑‍💼 Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/), [copaceptic](https://github.com/project-copacetic/copacetic), [Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
+- ⌨️ Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/), [copaceptic](https://github.com/project-copacetic/copacetic), [Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
