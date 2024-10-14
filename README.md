@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kapil Sharma   @h4l0gen</h1>
-<h3 align="center">A passionate Open Source contributor and Cyber Security enthusiasts</h3>
+<h3 align="center">I work in cloud security and development. I am Cyber Security enthusiasts and a ctf player</h3>
 
 <h3 aligin="left">About me:</h3>
-<p>I am an undergraduate student at IIT Roorkee. I contribute to open source projects in cloud, Kubernetes, web, and documentation. I love technologies that make things secure and enjoy learning how things work.
+<p>I am an undergraduate student at IIT Roorkee. I contribute to open source projects in cloud, and Kubernetes. I love technologies that make things secure and enjoy learning how things work.
 
 - 🚀 LFX'24 mentee at [Inspektor-gadget](https://github.com/inspektor-gadget/)
 
