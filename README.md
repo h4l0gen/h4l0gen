@@ -10,7 +10,7 @@
 
 - 🔭 I am a [CTF player](https://ctftime.org/user/161669) with team **[InfoSecIITR](https://ctftime.org/team/16691)**
   
-- 🌱 I’m currently learning **Kubernetes**, **eBPF**
+- 🌱 I’m currently learning **Kubernetes**, **cloud security**
 
 - ⌨️ Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/),[Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
 
