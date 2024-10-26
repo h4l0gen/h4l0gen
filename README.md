@@ -12,8 +12,6 @@
   
 - 🌱 I’m currently learning **Kubernetes**, **cloud security**, **DevSecOps**, **MLOps**
 
-- ⌨️ Currently giving contributions at [Falcosecurity](https://github.com/falcosecurity/), [TUF](https://github.com/theupdateframework/),[Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/) etc.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/kapilsh06216614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapil sharma" height="30" width="40" /></a>
