@@ -4,13 +4,13 @@
 <h3 aligin="left">About me:</h3>
 <p>I am an undergraduate student at IIT Roorkee. I contribute to open source projects in cloud and Kubernetes. Lets connect for discussion on cloud security
 
-- 🚀 LFX'24 mentee at [Inspektor-gadget](https://github.com/inspektor-gadget/)
+-  LFX'24 mentee at [Inspektor-gadget](https://github.com/inspektor-gadget/)
 
-- ☁️🔐 Cloud and system security Intern at [CloudDefense.AI](https://www.clouddefense.ai/)
+-  Cloud and system security Intern at [CloudDefense.AI](https://www.clouddefense.ai/)
 
-- 🔭 I am a [CTF player](https://ctftime.org/user/161669) with team **[InfoSecIITR](https://ctftime.org/team/16691)**
+-  I am a [CTF player](https://ctftime.org/user/161669) with team **[InfoSecIITR](https://ctftime.org/team/16691)**
   
-- 🌱 I’m currently learning **Kubernetes**, **cloud security**, **DevSecOps**, **MLOps**
+-  I’m currently learning **Kubernetes**, **cloud security**, **DevSecOps**, **MLOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -189,10 +189,3 @@
     />
   </a>
   </p>
-
-<h3 align="left"> 📊 GitHub Stats:</h3>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4l0gen&show_icons=true&locale=en&theme=dark" alt="kapil sharma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4l0gen&theme=dark" alt="kapil sharma" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4l0gen&show_icons=true&locale=en&layout=compact&theme=dark" alt="kapil sharma" /></p>
