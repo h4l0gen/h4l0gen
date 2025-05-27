@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Sharma   @h4l0gen</h1>
-<h3 align="center">I work in cloud security and development. I am Cyber Security enthusiasts and a ctf player</h3>
+<h3 align="center">I work in cloud security, development and DevOps. I am a Cyber Security enthusiasts and a ctf player</h3>
 
 <h3 aligin="left">About me:</h3>
 <p>I am an undergraduate student at IIT Roorkee. I contribute to open source projects in cloud and Kubernetes. Lets connect for discussion on cloud security
